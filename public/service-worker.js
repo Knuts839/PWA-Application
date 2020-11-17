@@ -1,4 +1,5 @@
 const FILES_TO_CACHE = [
+    "/models/",
     "/",
     "/index.js",
     "/db.js",
